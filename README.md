@@ -1,4 +1,4 @@
-# test2
+# Nuxt Handson
 
 > My priceless Nuxt.js project
 
